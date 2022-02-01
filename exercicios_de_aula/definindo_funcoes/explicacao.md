@@ -28,3 +28,8 @@ def diz_oi():
     print()
 diz_oi() 
 ```
+- Return finaliza a função;
+
+- Podemos ter em uma função diferentes returns;
+
+- Podemos em uma função, retornar qualquer tipo de dado e multiplos valores;

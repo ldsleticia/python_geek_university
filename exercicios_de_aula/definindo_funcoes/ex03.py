@@ -4,4 +4,4 @@ def quadrado_de_7():
 def quadrado_de_sete():
     return(7 * 7)
 
-print(quadrado_de_sete())
+print(quadrado_de_sete() + 1)
