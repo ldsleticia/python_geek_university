@@ -1,0 +1,1 @@
+cores = ['verde', 'amarelo', 'azul', 'branco']
