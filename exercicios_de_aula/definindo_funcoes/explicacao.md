@@ -33,3 +33,5 @@ diz_oi()
 - Podemos ter em uma função diferentes returns;
 
 - Podemos em uma função, retornar qualquer tipo de dado e multiplos valores;
+
+- Funções com parâmetros, recebem dados para serem processads dentro dela mesma;
