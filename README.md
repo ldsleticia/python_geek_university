@@ -6,13 +6,13 @@ Curso ministrado pela equipe da Geek University com mais de 60 horas de aula, al
 desenvolvidos em aula e listas de exercícios para fixação de conhecimento
 
 <p align="center">
-  <img alt="Orochimaru em cima de uma cobra" src="" />
+  <img alt="Orochimaru em cima de uma cobra" src="https://github.com/ldsleticia/python_geek_university/blob/main/img/orochimaru.jpg" />
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/ldsleticia/gamaPanAcademyJavaBasico?color=" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/ldsleticia/gamaPanAcademyJavaBasico?color=blue" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/ldsleticia/gamaPanAcademyJavaBasico?color=" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ldsleticia/gamaPanAcademyJavaBasico?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ldsleticia/gamaPanAcademyJavaBasico?color=" />
+	<img alt="GitHub code size in bytes" src="https://github.com/ldsleticia/python_geek_university?color=" />
+	<img alt="Number of lines of code" src="https://github.com/ldsleticia/python_geek_university?color=blue" />
+	<img alt="Code language count" src="https://github.com/ldsleticia/python_geek_university?color=" />
+	<img alt="GitHub top language" src="https://github.com/ldsleticia/python_geek_university?color=blue" />
+	<img alt="GitHub last commit" src="https://github.com/ldsleticia/python_geek_university?color=" />
 </p>
