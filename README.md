@@ -10,9 +10,9 @@ desenvolvidos em aula e listas de exercícios para fixação de conhecimento
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://github.com/ldsleticia/python_geek_university?color=" />
-	<img alt="Number of lines of code" src="https://github.com/ldsleticia/python_geek_university?color=blue" />
-	<img alt="Code language count" src="https://github.com/ldsleticia/python_geek_university?color=" />
-	<img alt="GitHub top language" src="https://github.com/ldsleticia/python_geek_university?color=blue" />
-	<img alt="GitHub last commit" src="https://github.com/ldsleticia/python_geek_university?color=" />
+	<img alt="GitHub code size in bytes" src="https://github.com/ldsleticia/python_geek_universitycolor=" />
+	<img alt="Number of lines of code" src="https://github.com/ldsleticia/python_geek_universitycolor=blue" />
+	<img alt="Code language count" src="https://github.com/ldsleticia/python_geek_universitycolor=" />
+	<img alt="GitHub top language" src="https://github.com/ldsleticia/python_geek_universitycolor=blue" />
+	<img alt="GitHub last commit" src="https://github.com/ldsleticia/python_geek_universitycolor=" />
 </p>
