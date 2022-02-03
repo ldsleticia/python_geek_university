@@ -14,5 +14,5 @@ desenvolvidos em aula e listas de exercícios para fixação de conhecimento
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/ldsleticia/python_geek_university?" />
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/ldsleticia/python_geek_university?" />
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ldsleticia/python_geek_university?" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ldsleticia/python_geek_university" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ldsleticia/python_geek_university?color=blue" />
 </p>
