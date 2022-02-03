@@ -41,3 +41,5 @@ como por exemplo a função **print()**
 
 - Funções com parâmetro padrão são mais flexíveis, evitam erros com parâmetros incorretos e 
 deixa o código mais legível;
+
+- Documentar funções com DocString é essencialmente, escrever o que aquela função está fazendo
