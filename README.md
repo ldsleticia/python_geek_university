@@ -15,4 +15,4 @@
 Neste curso desenvolvemos habilidades em Python do nível básico ao avançado.
 
 Curso ministrado pela equipe da Geek University com mais de 60 horas de aula, além dos exercícios
-desenvolvidos em aula e listas de exercícios para fixação de conhecimento
+desenvolvidos em aula e listas de exercícios para fixação de conhecimento.
