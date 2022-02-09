@@ -1,7 +1,7 @@
 lista = []
 
 while len(lista) < 10:
-    print('Digite dez números: ')
+    print("Digite dez números: ")
     numeros = int(input())
     lista.append(numeros)
 

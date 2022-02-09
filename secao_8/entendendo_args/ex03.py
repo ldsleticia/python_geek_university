@@ -1,6 +1,7 @@
 def soma_numeros(*args):
     return sum(args)
 
+
 # TypeError
 # numeros = [1, 2, 3, 4, 5, 6, 7]
 # print(soma_numeros(numeros))

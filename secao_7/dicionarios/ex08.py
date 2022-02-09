@@ -1,6 +1,6 @@
-#Iterando dicionários
+# Iterando dicionários
 
-receita = {'jan': 100, 'fev': 250, 'mar': 400}
+receita = {"jan": 100, "fev": 250, "mar": 400}
 
 for chave in receita:
     print(chave)
@@ -11,13 +11,13 @@ for chave in receita:
 print()
 
 for chave in receita:
-    print(f'{chave} : recebi {receita[chave]}')
+    print(f"{chave} : recebi {receita[chave]}")
 print()
 
 print(receita.keys())
 print()
 
-#Acessando os valores
+# Acessando os valores
 print(receita.values())
 print()
 
@@ -25,9 +25,9 @@ for valor in receita.values():
     print(valor)
 print()
 
-#Desempacotar dicionários
+# Desempacotar dicionários
 for chave, valor in receita.items():
-    print(f'chave={chave} e valor={valor}')
+    print(f"chave={chave} e valor={valor}")
 print()
 
 print(sum(receita.values()))

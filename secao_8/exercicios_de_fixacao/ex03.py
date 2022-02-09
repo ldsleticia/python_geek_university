@@ -6,6 +6,7 @@ def eh_positivo(numero):
     else:
         return -1
 
+
 print(eh_positivo(0))
 print(eh_positivo(2))
 print(eh_positivo(3))

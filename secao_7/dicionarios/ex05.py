@@ -1,4 +1,4 @@
-'''Carrinho de compras:
+"""Carrinho de compras:
 Produto 1:
     - nome;
     - quantidade;
@@ -6,12 +6,12 @@ Produto 1:
 Produto 2:
     - nome;
     - quantidade;
-    - preço;'''
-#Listas
+    - preço;"""
+# Listas
 
 carrinho = []
-produto1 = ['PS4', 1, 2300.00]
-produto2 = ['GoW 4', 1, 150.00]
+produto1 = ["PS4", 1, 2300.00]
+produto2 = ["GoW 4", 1, 150.00]
 
 carrinho.append(produto1)
 carrinho.append(produto2)
@@ -19,20 +19,20 @@ carrinho.append(produto2)
 print(carrinho)
 print()
 
-#Tuplas
+# Tuplas
 
-produto1 = ('PS4', 1, 2300.00)
-produto2 = ('GoW 4', 1, 150.00)
+produto1 = ("PS4", 1, 2300.00)
+produto2 = ("GoW 4", 1, 150.00)
 
 carrinho = (produto1, produto2)
 
 print(carrinho)
 print()
 
-#Dicionários
+# Dicionários
 carrinho = []
-produto1 = {'nome': 'PS4', 'quantidade': 1, 'preço': 2300.00}
-produto2 = {'nome': 'GoW 4', 'quantidade': 1, 'preço': 150.00}
+produto1 = {"nome": "PS4", "quantidade": 1, "preço": 2300.00}
+produto2 = {"nome": "GoW 4", "quantidade": 1, "preço": 150.00}
 
 carrinho.append(produto1)
 carrinho.append(produto2)

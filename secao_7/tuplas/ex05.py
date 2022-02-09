@@ -1,4 +1,4 @@
-tupla = 1,2,3
+tupla = 1, 2, 3
 
 print(3 in tupla)
 print(33 in tupla)
