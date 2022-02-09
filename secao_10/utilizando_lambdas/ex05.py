@@ -11,5 +11,5 @@ autores = [
 ]
 
 # Ordenando pelo sobrenome
-autores.sort(key=lambda sobrenome: sobrenome.split(' ')[-1].lower())
+autores.sort(key=lambda sobrenome: sobrenome.split(" ")[-1].lower())
 print(autores)
