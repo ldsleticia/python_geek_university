@@ -3,4 +3,5 @@ def maior_nota(a, b):
     menor = min(a, b)
     return maior, menor
 
-print(maior_nota(1,2))
+
+print(maior_nota(1, 2))

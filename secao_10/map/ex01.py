@@ -1,8 +1,9 @@
 import math
 
-# Função 
+# Função
 def area(r):
-    return math.pi * (r ** 2)
+    return math.pi * (r**2)
+
 
 # Iterável
 raios = [2, 5, 7.1, 0.3, 10, 44]
@@ -20,4 +21,4 @@ areas = map(area, raios)
 print(list(areas))
 
 # Utlizando Map com Lambda
-print(list(map(lambda r: math.pi * (r ** 2), raios)))
+print(list(map(lambda r: math.pi * (r**2), raios)))
