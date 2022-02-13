@@ -1,2 +1,2 @@
 def funcao3():
-    return 'Geek'
+    return "Geek"
