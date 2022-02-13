@@ -27,3 +27,9 @@ print(random.random())
  ~~~
 
  - Não confunda a função random com o pacote random. A função random() termina com parênteses e faz parte do pacote random
+
+ - Realizando o import de apenas uma função do random
+
+  ~~~
+from random import random
+ ~~~

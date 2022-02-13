@@ -1,5 +1,6 @@
 # Forma semi genérica
 
+
 def divide(a, b):
     try:
         return int(a) / int(b)
