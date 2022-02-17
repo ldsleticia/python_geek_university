@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="Orochimaru em cima de uma cobra" src="https://github.com/ldsleticia/python_geek_university/blob/main/img/orochimaru.jpg" />
+  <img alt="Orochimaru em cima de uma cobra" src="https://github.com/ldsleticia/python_geek_university/blob/main/assets/orochimaru.jpg" />
 </p>
 
 Neste curso desenvolvemos habilidades em Python do nível básico ao avançado.
