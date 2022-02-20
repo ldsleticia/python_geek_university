@@ -10,3 +10,6 @@
 
 - Caso o arquivo já exista, o conteúdo do arquivo será subscrito pelas novas informações que foram inseridas.
 
+- O modo x abre a escrita somente se o arquivo não existir. Se o arquivo existir, gerará um FileExistError
+
+- O modo a abre a escrita e adiciona conteúdo ao final do arquivo
