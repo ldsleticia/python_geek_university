@@ -1,5 +1,6 @@
 # Sintaxe não recomendada
 
+
 def seja_educado(funcao):
     def sendo():
         print("Foi um prazer conhecer você")
