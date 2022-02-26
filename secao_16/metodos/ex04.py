@@ -1,4 +1,4 @@
-# Método de classe
+# Metodo estático
 
 from passlib.hash import pbkdf2_sha256 as cryp
 
@@ -9,6 +9,10 @@ class Usuario:
     @classmethod
     def conta_usuarios(cls):
         print(f"Temos {cls.contador} usuário(s) no sistema")
+
+    @staticmethod
+    def definicao():
+        return "uxr344".upper()
 
     def __init__(self, nome, sobrenome, email, senha):
         self.__id = Usuario.contador + 1
