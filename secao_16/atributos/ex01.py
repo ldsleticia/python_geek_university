@@ -21,4 +21,4 @@ print(p2.__dict__)
 print(p3.__dict__)
 
 del p3.peso
-
+print(p3.__dict__)
